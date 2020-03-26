@@ -1,4 +1,4 @@
-console.log("client side javasript file is loaded")
+// console.log("client side javasript file is loaded")
 // fetch('http://localhost:3000/weather?address=Boston').then((response)=>{
 //     response.json().then((data)=>{
 //         if(data.error){
